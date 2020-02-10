@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Sam's Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sam Seo"
-description              : "An amazing website."
+description              : "A Lab for deep learning website."
 url                      : "https://soju1jan.github.io" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -110,7 +110,7 @@ author:
   name             : "Sam Seo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My Deep learning is under constrution with Keras & Tensorflow !!."
-  location         : "Bunker in somwhere"
+  location         : "Bunker in somewhere"
   email            :
   links:
     - label: "Email"
